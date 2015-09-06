@@ -1,2 +1,0 @@
-# BoltsBotCommands
-BoltsBot Command list.
